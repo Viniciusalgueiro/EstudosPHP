@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="studing if and else with PHP :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +40,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607192529917</updated>
-      <workItem from="1607192534229" duration="2481000" />
+      <workItem from="1607192534229" duration="3161000" />
     </task>
+    <task id="LOCAL-00001" summary="studing if and else with PHP :)">
+      <created>1607196642136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607196642136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="studing if and else with PHP :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="studing if and else with PHP :)" />
   </component>
 </project>
