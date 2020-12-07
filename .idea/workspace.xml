@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="studing if and else with PHP :)" />
+    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="studing more with PHP :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607192529917</updated>
-      <workItem from="1607192534229" duration="3161000" />
+      <workItem from="1607192534229" duration="3805000" />
     </task>
     <task id="LOCAL-00001" summary="studing if and else with PHP :)">
       <created>1607196642136</created>
@@ -49,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607196642136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="studing more with PHP :)">
+      <created>1607299198196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607299198196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,6 +64,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="studing if and else with PHP :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="studing if and else with PHP :)" />
+    <MESSAGE value="studing more with PHP :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="studing more with PHP :)" />
   </component>
 </project>
