@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="studing more with PHP :)">
-      <change afterPath="$PROJECT_DIR$/listas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bca2fbfc-953c-4c46-b8a7-e193a0769e06" name="Default Changelist" comment="studing more with PHP :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607192529917</updated>
       <workItem from="1607192534229" duration="4425000" />
-      <workItem from="1607711430629" duration="2076000" />
+      <workItem from="1607711430629" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="studing if and else with PHP :)">
       <created>1607196642136</created>
@@ -67,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607299845947</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="studing more with PHP :)">
+      <created>1607739976654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607739976654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
